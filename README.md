@@ -1,2 +1,3 @@
 # the-last-of-us
-descrição breve
+Meu Primeiro projeto academico, criado usando HTML, CSS e JS. 
+
